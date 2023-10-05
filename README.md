@@ -9,6 +9,7 @@ Simple, easy-to-use script with minimal dependencies.
 
 # Getting Started:
 Clone the repository: git clone https://github.com/learn-with-santosh/audiobook.git
+
 Install dependencies: pip install pyttsx3 PyPDF2
 Run the script: python pdf_to_speech.py
 Feel free to customize the script for your specific use case or integrate it into other projects.
